@@ -1,0 +1,17 @@
+*{
+    background-color: aquamarine;
+}
+.change:after{
+    content: ' ';
+    animation: changetext 10s infinite linear;
+    
+}
+@keyframes changetext{
+    0%{content: "mumbai";}
+    20%{content: "delhi";}
+    35%{content: "dahisar";}
+    60%{content: "kolkata";}
+    75%{content: "banglore";}
+    89%{content: "mumbai";}
+    100%{content: "chennai";}
+}

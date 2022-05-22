@@ -1,0 +1,215 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.logo{
+    padding-top: 19px;
+    padding-left: 22px;
+    font-size: 29px;
+    font-weight: bolder;
+}
+.top1{
+    justify-content: center;
+}
+/* ul{
+    height: 24px;
+    margin-left: auto;
+    width: 51%;
+    PADDING: 20PX;
+    
+} */
+
+.liii{
+    padding: 7px;
+    display: inline;
+    word-spacing: 1px;
+    /* font-family: 'Hind Madurai', sans-serif; */
+     cursor: pointer;
+     font-family: 'Ubuntu', sans-serif;
+     text-decoration: none;
+     list-style: none;
+}
+
+a:hover{
+    color: red;
+}
+a:link{
+    color: black;
+}
+#navi{
+    background-color: white;
+    display: flex;
+    margin:4px;
+}
+input[type="text" i] {
+    padding: 10px 2px;
+    margin-left: 38px;
+    margin-top: 57px;
+}
+.middle{
+    display: flex;
+    background-color: #e8e5df;
+}
+.aside{
+    width: 351px;
+    height: 1285px;
+    margin: 2px;
+   
+    background-color: #e8e5df;
+}
+.main{
+    width: 976px;
+    height: 1285px;
+    margin: 3px;
+   
+}
+.asideb1{
+    width: 323px;
+    margin: 8px;
+    height: 70px;
+    background-color: #e8e5df;
+    
+}
+.asideb2{
+    width: 323px;
+    margin: 8px;
+
+    height: 70px;
+    background-color: #e8e5df;
+    
+}
+.asideb3{
+    width: 323px;
+    margin: 8px;
+
+    height: 70px;
+    background-color: #e8e5df;
+    
+}
+.asideb4{
+    width: 323px;
+    margin: 8px;
+
+    height: 70px;
+    background-color: #e8e5df;
+    
+}
+.asideb5{
+    width: 323px;
+    margin: 8px;
+
+    height: 70px;
+    background-color: #e8e5df;
+    
+}
+.ul1{
+    display: flex;
+}
+.filter1{
+    margin-left: 41px;
+}
+.default{
+    display: flex;
+}
+.op1{
+    margin-left: 30rem;
+    padding: 0.5rem;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+}
+.item1{
+    width: 195px;
+    height: 304px;
+    margin: 9px;
+}
+.item2{
+    width: 195px;
+    height: 304px;
+    margin :9px;
+}
+.item3{
+    width: 195px;
+    height: 304px;
+    margin: 9px;
+}
+.item4{
+    width :195px;
+    height: 304px;
+    margin: 9px;
+}
+.four{
+    display: flex;
+    padding-left: 4.5rem;
+}
+.f1{
+    border: 1px solid black;
+    width: 2rem;
+    height: 2rem;
+    margin: 0.2rem;
+    background-color:white;
+    text-align: center;
+}
+.last1{
+    display: flex;
+    justify-content: center;
+    padding: 90px;
+    background-color:#e8e5df;
+    cursor: pointer;
+}
+.img1{
+    /* background-image: url('global.png');
+    background-repeat: no-repeat; */
+    /* background-size: 100% 100%; */
+    width: 264px;
+    height: 240px;
+    margin: 15px;
+    
+}
+.img2{
+    width: 264px;
+    height: 240px;
+    margin: 15px;
+    
+}
+.img3{
+    width: 264px;
+    height: 240px;
+    margin: 15px;
+    
+}
+.img4{
+    
+    width: 264px;
+    height: 240px;
+    margin: 15px;  
+}
+.last{
+    display: flex;
+    justify-content: left;
+    padding: 51px;
+}
+.l1{
+    width: 264px;
+    height: 240px;
+    margin: 15px;
+}
+.n1{
+    padding-top: 32px;
+    padding-left: 19px;
+}
+.n2{
+    list-style: none;
+    padding-left: 19px;
+    font-family: 'Hind Madurai', sans-serif;
+    cursor:pointer;
+    
+}
+.sp{
+    word-spacing: 5px;
+}
+a:hover{
+   color: blue;
+}

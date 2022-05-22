@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    height: 40%;
+    background-color: #2c65a0;
+    cursor: pointer;
+}
+.logo{
+    color: white;
+    cursor: pointer;
+}
+nav{
+    display: flex;
+    background-color:  #2e445aa6;
+    padding: 2rem;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+nav li{
+   list-style: none;
+   margin-left: auto;
+   display: inline-block;
+   margin-right: auto;
+   padding-left: 1.1rem;
+   color: white;
+   transition: all 0.3s linear;
+}
+nav li:hover{
+    color: blue;
+}
+.con{
+   color: white;
+   font-size: 4rem;
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 7rem;
+}
+main{
+    display: flex;
+    background-color: #e0e0e0;
+    cursor: pointer;
+}
+main .p2{
+    padding-left: 5rem;
+}
+main .p1{
+    padding-left: 6rem;
+}
+main .p1 h1{
+    padding-top: 11rem;
+    font-size: 2.2rem;
+    color: #333333;
+
+}
+main .p2 .n{
+    margin-top: 10rem;
+}
+main .p1 p{
+    font-size: 1rem;
+    padding: 0.5rem;
+
+}
+.op{ 
+    font-size: 1.3rem;
+    padding-top: 5rem;
+    color: #333333;
+
+}
+
+.op2{
+    font-size: 2.1rem;
+    color: #333333;
+}
+main .p2 input{
+    padding: 0.8rem;
+    padding-right: 30.2rem;
+    margin: 0.5rem;
+}
+main .p2 button{
+    margin: 00.5rem;
+    padding: 1rem 1.6rem;
+    background-color: black;
+    color: white;
+    /* font-weight: bold; */
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s linear;
+
+}
+main .p2 button:hover{
+    background-color: #333333;
+}
